@@ -1,0 +1,142 @@
+const songs=[
+    {
+        id:'1',
+        SongName:`On my way <br />
+        <div class="subtitle">Alan Walker</div>
+      </h5>`,
+        Poster:'img/1.jpg',
+    },
+    {
+        id:'2',
+        SongName:`Headlights <br />
+        <div class="subtitle">Alan Walker</div>
+      </h5>`,
+        Poster:'img/2.jpg',
+    },
+    {
+        id:'3',
+        SongName:`Space Melody<br />
+        <div class="subtitle">Danial Levl</div>
+      </h5>`,
+        Poster:'img/3.jpg',
+    },
+    {
+        id:'4',
+        SongName:`World We Used To Know<br />
+        <div class="Mortals">Alan Walker</div>
+      </h5>`,
+        Poster:'img/4.jpg',
+    },
+    {
+        id:'5',
+        SongName:`Out Of Love<br />
+        <div class="subtitle">Erturgul</div>
+      </h5>`,
+        Poster:'img/5.jpg',
+    },
+    {
+        id:'6',
+        SongName:`Fake A Smile <br />
+        <div class="subtitle">Electro</div>
+      </h5>`,
+        Poster:'img/6.jpg',
+    },
+    {
+        id:'7',
+        SongName:`Paradise <br />
+        <div class="subtitle">Tamashaa</div>
+      </h5>`,
+        Poster:'img/7.jpg',
+    },
+    {
+        id:'8',
+        SongName:`Not You <br />
+        <div class="subtitle">Neha Kakker</div>
+      </h5>`,
+        Poster:'img/8.jpg',
+    },
+    {
+        id:'9',
+        SongName:`Man On The Moon<br />
+        <div class="subtitle">Satyameva jayte</div>
+      </h5>`,
+        Poster:'img/9.jpg',
+    },
+    {
+        id:'10',
+        SongName:`sorry<br />
+        <div class="subtitle">Luka chuppi</div>
+      </h5>`,
+        Poster:'img/10.jpg',
+    },
+    {
+        id:'11',
+        SongName:` Beievers<br />
+        <div class="subtitle">Street Dancer 3D</div>
+      </h5>`,
+        Poster:'img/11.jpg',
+    },
+    {
+        id:'12',
+        SongName:`Running Out Of Roses  <br />
+        <div class="subtitle">Putt Jatt da</div>
+      </h5>`,
+        Poster:'img/12.jpg',
+    },
+    {
+        id:'13',
+        SongName:`Alone <br />
+        <div class="subtitle">Atif Aslam</div>
+      </h5>`,
+        Poster:'img/13.jpg',
+    },
+    {
+        id:'14',
+        SongName:`Darkside <br />
+        <div class="subtitle">Dhamni bhanushali</div>
+      </h5>`,
+        Poster:'img/14.jpg',
+    },
+    {
+        id:'15',
+        SongName:`Lily<br />
+        <div class="subtitle">Jubin Nautiyal</div>
+      </h5>`,
+        Poster:'img/15.jpg',
+    },
+    {
+        id:'16',
+        SongName:`Somebody_Like_U_  <br/>
+        <div class="subtitle">Jubin Nautiyal</div>
+      </h5>`,
+        Poster:'img/16.jpg',
+    },
+    {
+        id:'17',
+        SongName:`Digital Life<br/>
+        <div class="subtitle">Rahat Fateh Ali Khan</div>
+      </h5>`,
+        Poster:'img/17.jpg',
+    },
+    {
+        id:'18',
+        SongName:`Feeling-of-Love<br/>
+        <div class="subtitle">Ali Sathi Seha Gil</div>
+      </h5>`,
+        Poster:'img/18.jpg',
+    },
+    {
+        id:'19',
+        SongName:`Lost control  <br/>
+        <div class="subtitle">Ap Dhillon Gurindar</div>
+      </h5>`,
+        Poster:'img/19.jpg',
+    },
+    {
+        id:'20',   
+        SongName:`-Walk-Thru-Fire<br />
+        <div class="subtitle">Ap dhillon</div>
+      </h5>`,
+        Poster:'img/20.jpg',
+    }
+]
