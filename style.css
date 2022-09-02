@@ -710,7 +710,7 @@ header .song_side .popular_artists .item li img {
 @media screen and (max-device-width: 1024px){
     body{
         font-family:'Poppins','sans-serif';
-        width:90%;
+        width:100vh;
         height:100vh;
         display:block;
     }
